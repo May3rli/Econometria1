@@ -1,0 +1,25 @@
+#Sesión 1: primer lab
+##Crear una carpeta del curso llamada “econometria1” > crear dos carpetas dentro de econometria1 > nombrar las carpetas como “01_codes” y “02_data”
+Nota: las comillas son para hacer énfasis, no deben ir en el nombre de las carpetas
+
+##Crear un nuevo file R Markdown 
+1) File > New File > R Markdown > Title: title > Author: name >  PDF
+2)   > R Markdown > Title: title > Author: name >  PDF
+Nota: borrar todo el texto que empieza en la fila 7 
+
+##Guardar el file 
+  > Nombrar > Seleccionar ubicación > Guardar
+
+##Crear un nuevo proyecto
+1) File > New Project > New Directory > New Project > Directory name: name > browse: seleccionar como ubicación la carpeta “econometria1”
+
+Se creará una carpeta dentro de econometria1 con el nombre que hayan puesto, el profe utilizó "econometria1", por lo que es recomendable nombrarla de la misma manera
+
+##Eliminar econometria1 carpeta y reemplazarla por econometria1 proyecto 
+
+De ahora en más, se trabajará en el proyecto econometria1. Eso organizará todos los códigos, datas, scripts…etc. del curso en un mismo lugar. 
+
+
+
+
+
